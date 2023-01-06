@@ -1,0 +1,12 @@
+.selected-tab {
+  color: #fec653;
+  border: none;
+  border-bottom: 1px solid #fec653;
+  padding-bottom: 5px;
+}
+button {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 20px;
+}
